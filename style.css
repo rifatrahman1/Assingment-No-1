@@ -153,7 +153,6 @@ a {
     background-image: url(donate-today-main/icons/food.png);
     background-repeat: no-repeat;
     background-position: left;
-    background-size: 70px;
     border-radius: 20px;
     box-shadow: 10px 10px 40px gray;
 
@@ -212,4 +211,35 @@ a {
 .thartin-div p {
     font-size: 25px;
     color: aqua;
+}
+
+.fortin-div {
+    width: 50%;
+    padding-left: 3%;
+}
+
+.fortin-div img {
+    width: 100%;
+}
+
+.fortin-div p {
+    font-size: 25px;
+
+}
+
+.fifteen-div {
+    color: orange;
+}
+
+.sixteen-div {
+    box-shadow: 10px 10px 10px gray;
+}
+
+.seventeen-div {
+    box-shadow: 15px 15px 10px gray;
+}
+
+#experience-item {
+    display: flex;
+    padding-bottom: 15%;
 }
